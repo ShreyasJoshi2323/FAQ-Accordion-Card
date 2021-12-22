@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/faq-accordion-card-responsive-using-html-css-and-js-qHsbBrl2kn)
 - [View live demo](https://risclover.github.io/FAQ-Accordion-Card/)
 
 ## My process
